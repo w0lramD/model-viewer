@@ -1,0 +1,11 @@
+commit b28cde29bfd3c89f23ab844534d259f24043d919
+Author: Emmett Lalish <elalish@google.com>
+Date:   Fri Sep 10 21:40:38 2021 -0700
+
+    Fix editor export (#2773)
+    
+    * clean up UI for mobile
+    
+    * fixed zip output
+    
+    * attribute cleanup
